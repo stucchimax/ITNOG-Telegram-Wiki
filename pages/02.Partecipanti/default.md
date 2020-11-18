@@ -17,7 +17,9 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 | Username | Nome | Cognome |Organizzazione| ASN |
 |----------|------|---------|-----|-----|
 |g_bonfiglio | Giorgio | Bonfiglio | AWS | AS16509 |
+|massimocandela | Massimo | Candela | NTT| [AS2914](https://www.gin.ntt.net/) |
 |pierky | Pier Carlo | Chiodi | Cisco Umbrella | AS36692 |
+|lucacicchelli | Luca | Cicchelli | TOP-IX | AS25309, AS41364, AS209631 |
 |Peppe2201 | Giuseppe | Dipierro | Uania Srl | [AS207905](https://www.uania.com/)|
 |flavioluciani81 | Flavio | Luciani | Namex | [AS24796](https://www.namex.it) |
 |manolab| Normando | Marcolongo | Micso | AS21034, AS205005 |
@@ -30,6 +32,6 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
 |lostcarrier37| Lukas | Tribus | Brennercom SpA | [AS20811](https://www.peeringdb.com/asn/20811) |
 |mtrimarchi| Manuele | Trimarchi | ICAD SISTEMI | |
-|lucacicchelli | Luca | Cicchelli | TOP-IX | AS25309, AS41364, AS209631 |
-|massimocandela | Massimo | Candela | NTT| [AS2914](https://www.gin.ntt.net/) |
+
+
 
