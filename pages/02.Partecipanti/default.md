@@ -23,4 +23,4 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
 |mtrimarchi| Manuele | Trimarchi | ICAD SISTEMI | |
 |lostcarrier37| Lukas | Tribus | Brennercom SpA | [AS20811](https://www.peeringdb.com/asn/20811) |
-
+|manolab| Normando | Marcolongo | Micso | AS21034, AS205005 |
