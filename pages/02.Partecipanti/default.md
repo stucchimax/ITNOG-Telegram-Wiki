@@ -17,6 +17,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 | Username | Nome | Cognome |Organizzazione| ASN |
 |----------|------|---------|-----|-----|
 |g_bonfiglio | Giorgio | Bonfiglio | AWS | AS16509 |
+|pierky | Pier Carlo | Chiodi | Cisco Umbrella | AS36692 |
 |flavioluciani81 | Flavio | Luciani | Namex | [AS24796](https://www.namex.it) |
 |manolab| Normando | Marcolongo | Micso | AS21034, AS205005 |
 |antoniopradoit | Antonio | Prado | SBTAP | [AS59715](https://as59715.net) |
