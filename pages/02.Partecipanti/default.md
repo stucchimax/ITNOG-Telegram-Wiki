@@ -16,6 +16,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 
 | Username | Nome | Cognome |Organizzazione| ASN |
 |----------|------|---------|-----|-----|
+|flavioluciani81| Flavio | Luciani | Namex | [AS24796](https://www.namex.it) |
 |antoniopradoit| Antonio | Prado | SBTAP | [AS59715](https://as59715.net) |
 |stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
 |mtrimarchi| Manuele | Trimarchi | ICAD SISTEMI | |
