@@ -18,11 +18,14 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |----------|------|---------|-----|-----|
 |g_bonfiglio | Giorgio | Bonfiglio | AWS | AS16509 |
 |flavioluciani81 | Flavio | Luciani | Namex | [AS24796](https://www.namex.it) |
+|manolab| Normando | Marcolongo | Micso | AS21034, AS205005 |
 |antoniopradoit | Antonio | Prado | SBTAP | [AS59715](https://as59715.net) |
+|rglauco| Glauco | Rampogna | Comune di Preganziol | |
 |stesasso| Stefano | Sasso | Athonet | |
 |jack| Jakob | Schwienbacher | Telmekom | [AS49088](https://www.telmekom.net) |
 |stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
-|mtrimarchi| Manuele | Trimarchi | ICAD SISTEMI | |
 |lostcarrier37| Lukas | Tribus | Brennercom SpA | [AS20811](https://www.peeringdb.com/asn/20811) |
-|manolab| Normando | Marcolongo | Micso | AS21034, AS205005 |
-|rglauco| Glauco | Rampogna | Comune di Preganziol | |
+|mtrimarchi| Manuele | Trimarchi | ICAD SISTEMI | |
+
+
+
