@@ -30,4 +30,5 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |lostcarrier37| Lukas | Tribus | Brennercom SpA | [AS20811](https://www.peeringdb.com/asn/20811) |
 |mtrimarchi| Manuele | Trimarchi | ICAD SISTEMI | |
 |lucacicchelli | Luca | Cicchelli | TOP-IX | AS25309, AS41364, AS209631 |
+|massimocandela | Massimo | Candela | NTT| [AS2914](https://www.gin.ntt.net/) |
 
