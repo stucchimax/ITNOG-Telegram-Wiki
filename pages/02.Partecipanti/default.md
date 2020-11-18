@@ -17,7 +17,7 @@ Dato l'alto numero di partecipanti, la lista e' intesa come un punto di incontro
 |----------|------|---------|-----|-----|
 |antoniopradoit| Antonio | Prado | SBTAP | [AS59715](https://as59715.net) |
 |stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
-
+|mtrimarchi| Manuele | Trimarchi | ICAD SISTEMI | |
 
 
 
