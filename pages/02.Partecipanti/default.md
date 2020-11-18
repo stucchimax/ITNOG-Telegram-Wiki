@@ -14,6 +14,7 @@ Di seguito una lista dei partecipanti in ordine alfabetico:
 | Nickname | Nome | Cognome |Organizzazione| ASN |
 |----------|------|---------|-----|-----|
 |Stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
+|antoniopradoit| Antonio | Prado | SBTAP | [AS59715](https://as59715.net) |
 
 
 
