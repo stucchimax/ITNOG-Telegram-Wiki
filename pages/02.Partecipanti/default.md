@@ -25,3 +25,4 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |mtrimarchi| Manuele | Trimarchi | ICAD SISTEMI | |
 |lostcarrier37| Lukas | Tribus | Brennercom SpA | [AS20811](https://www.peeringdb.com/asn/20811) |
 |manolab| Normando | Marcolongo | Micso | AS21034, AS205005 |
+|rglauco| Glauco | Rampogna | Comune di Preganziol | |
