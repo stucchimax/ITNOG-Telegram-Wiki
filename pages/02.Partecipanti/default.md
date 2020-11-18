@@ -1,5 +1,5 @@
 ---
-title: ITNOG Telegram 
+title: Partecipanti 
 body_classes: 'title-center title-h1h2'
 ---
 
@@ -8,12 +8,14 @@ body_classes: 'title-center title-h1h2'
 Il canale si trova al seguente indirizzo: [https://t.me/IT_NOG](https://t.me/IT_NOG)
 
 
-Di seguito una lista dei partecipanti:
+Di seguito una lista dei partecipanti in ordine alfabetico:
 
 
-Nickname | Nome | Cognome | ASN 
-Stucchimax | Massimiliano | Stucchi | [AS58280](https://as58280.peeringdb.com) 
-col 3 is| right-aligned | $1600 | -
+| Nickname | Nome | Cognome |Organizzazione| ASN |
+|----------|------|---------|-----|-----|
+|Stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
+
+
 
 
 
