@@ -22,4 +22,5 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |jack| Jakob | Schwienbacher | Telmekom | [AS49088](https://www.telmekom.net) |
 |stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
 |mtrimarchi| Manuele | Trimarchi | ICAD SISTEMI | |
+|lostcarrier37| Lukas | Tribus | Brennercom SpA | [AS20811](https://www.peeringdb.com/asn/20811) |
 
