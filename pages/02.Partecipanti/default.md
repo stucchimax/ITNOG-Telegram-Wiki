@@ -12,6 +12,7 @@ Di seguito una lista dei partecipanti in ordine alfabetico.
 
 Dato l'alto numero di partecipanti, la lista e' intesa come un punto di incontro per aiutare in caso di problemi a contattare i giusti referenti.
 
+E' possibile aggiungersi alla lista procedendo con una pull request sulla [repository GitHub](https://github.com/stucchimax/ITNOG-Telegram-Wiki/) che gestisce il sito.
 
 | Username | Nome | Cognome |Organizzazione| ASN |
 |----------|------|---------|-----|-----|
