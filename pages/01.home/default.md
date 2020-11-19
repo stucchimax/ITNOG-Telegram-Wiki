@@ -3,7 +3,7 @@ title: ITNOG Telegram
 body_classes: 'title-center title-h1h2'
 ---
 
-## Pagina del canale telegram ITNOG
+# Pagina del canale telegram ITNOG
 
 Questa pagina complementa il canale telegram di ITNOG, con lo scopo di fornire un punto di aggregazione dei contenuti, pubblicazione di notizie.  L'obiettivo e' anche quello di creare una knowledgebase da poter consultare in merito a cio' che e' stato discusso nel canale.
 
@@ -19,10 +19,21 @@ Gli argomenti trattati nel canale includono, ma non sono limitati a:
 * Strumenti per il monitoraggio di reti;
 * Ecc.
 
+## Prossimi eventi
+
+| Data | Descrizione | URL| Note|
+|-----|--------|-----|-----|
+|25/11/2020| How to MANRS | [link](https://us02web.zoom.us/meeting/register/tZwvceGurz8iHNNCw0CuyuH-A1AYY8CGk-k2)| Per maggiori info, parlare con Flavio Luciani|
+
+## ITNOG-Outages
+
 E' presente anche un secondo canale, [ITNOG Outages](https://t.me/ITNOG_Outages) il cui scopo e' comunicare tempestivamente problemi relativi alle reti e alle interconnessioni in Italia.  Questo canale e' solo ed esclusivamente per comunicazioni brevi, e non per le discussioni inerenti ai guasti.  Tali discussioni sono da tenersi sul canale principale.  L'obiettivo e' permettere di mantenere un livello di traffico basso cosi' da tenere le notifiche attive ed essere tempestivamente allertati in caso di disservizi generalizzati.
 
- 
+## Aggiunta di contenuti
+
 Questo sito e' gestito tramite una [repository github](https://github.com/stucchimax/ITNOG-Telegram-Wiki), e sono benvenute tutte le pull requests per aggiungere contenuti.
+
+## Contatti
 
 Per ogni domanda siete pregati di contattare gli admin del gruppo.  Per qualsiasi domanda relativa al sito ed alla repository github, siete pregati di scrivere a max@stucchi.ch.
 
