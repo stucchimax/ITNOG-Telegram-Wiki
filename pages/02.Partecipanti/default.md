@@ -16,19 +16,24 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 
 | Username | Nome | Cognome |Organizzazione| ASN |
 |----------|------|---------|-----|-----|
+|JustFretto| Stefano | Annese | Erre Elle Net |  [AS47406](https://www.peeringdb.com/asn/47406) |
 |g_bonfiglio | Giorgio | Bonfiglio | AWS | AS16509 |
+|PgB79| Piero | Borello | Quirum | |
+|massimocandela | Massimo | Candela | NTT| [AS2914](https://www.gin.ntt.net/) |
 |pierky | Pier Carlo | Chiodi | Cisco Umbrella | AS36692 |
+|lucacicchelli | Luca | Cicchelli | TOP-IX | AS25309, AS41364, AS209631 |
+|godzillante | Francesco | De Francesco | Keliweb | [AS202675](https://www.peeringdb.com/asn/202675) |
 |Peppe2201 | Giuseppe | Dipierro | Uania Srl | [AS207905](https://www.uania.com/)|
 |flavioluciani81 | Flavio | Luciani | Namex | [AS24796](https://www.namex.it) |
 |manolab| Normando | Marcolongo | Micso | AS21034, AS205005 |
+|capitangiaco| Giacomo | Marconi | Comune di Arezzo | |
 |antoniopradoit | Antonio | Prado | SBTAP | [AS59715](https://as59715.net) |
 |paolopoz | Paolo | Pozzan | Telemar | [AS13097](https://www.peeringdb.com/net/8782) |
 |rglauco| Glauco | Rampogna | Comune di Preganziol | |
+|router365| Luca | Robusto | Arpitel | |
 |stesasso| Stefano | Sasso | Athonet | |
 |jack| Jakob | Schwienbacher | Telmekom | [AS49088](https://www.telmekom.net) |
 |stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
 |lostcarrier37| Lukas | Tribus | Brennercom SpA | [AS20811](https://www.peeringdb.com/asn/20811) |
 |mtrimarchi| Manuele | Trimarchi | ICAD SISTEMI | |
-|JustFretto| Stefano | Annese | Erre Elle Net |  [AS47406](https://www.peeringdb.com/asn/47406) |
-|PgB79| Piero | Borello | Quirum | |
 
