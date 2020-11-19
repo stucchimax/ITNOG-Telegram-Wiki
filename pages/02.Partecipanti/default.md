@@ -17,6 +17,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 | Username | Nome | Cognome |Organizzazione| ASN |
 |----------|------|---------|-----|-----|
 |JustFretto| Stefano | Annese | Erre Elle Net |  [AS47406](https://www.peeringdb.com/asn/47406) |
+|MatteoBerlonghi | Matteo | Berlonghi | SeFlow | [AS49367](https://www.seflow.net/) |
 |g_bonfiglio | Giorgio | Bonfiglio | AWS | AS16509 |
 |PgB79| Piero | Borello | Quirum | |
 |massimocandela | Massimo | Candela | NTT| [AS2914](https://www.gin.ntt.net/) |
@@ -37,5 +38,6 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
 |lostcarrier37| Lukas | Tribus | Brennercom SpA | [AS20811](https://www.peeringdb.com/asn/20811) |
 |[mtrimarchi](https://t.me/mtrimarchi)| Manuele | Trimarchi | ICAD SISTEMI | |
-|MatteoBerlonghi | Matteo | Berlonghi | SeFlow | [AS49367](https://www.seflow.net/) |
+|[Czanforlin](https://t.me/Czanforlin)| Cristiano | Zanforlin | MIX-IT | 16004 |
+
 
