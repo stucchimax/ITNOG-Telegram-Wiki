@@ -30,6 +30,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |antoniopradoit | Antonio | Prado | SBTAP | [AS59715](https://as59715.net) |
 |paolopoz | Paolo | Pozzan | Telemar | [AS13097](https://www.peeringdb.com/net/8782) |
 |rglauco| Glauco | Rampogna | Comune di Preganziol | |
+|sickness| Diego | Righi | Unione delle Terre d'Argine | |
 |router365| Luca | Robusto | Arpitel | |
 |stesasso| Stefano | Sasso | Athonet | |
 |jack| Jakob | Schwienbacher | Telmekom | [AS49088](https://www.telmekom.net) |
