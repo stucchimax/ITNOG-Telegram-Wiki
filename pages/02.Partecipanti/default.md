@@ -28,6 +28,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |flavioluciani81 | Flavio | Luciani | Namex | [AS24796](https://www.namex.it) |
 |manolab| Normando | Marcolongo | Micso | AS21034, AS205005 |
 |capitangiaco| Giacomo | Marconi | Comune di Arezzo | |
+|mpaesani| Marco | Paesani | Fiber Telecom | [AS41327](https://as41327.peeringdb.com)|
 |antoniopradoit | Antonio | Prado | SBTAP | [AS59715](https://as59715.net) |
 |paolopoz | Paolo | Pozzan | Telemar | [AS13097](https://www.peeringdb.com/net/8782) |
 |rglauco| Glauco | Rampogna | Comune di Preganziol | |
