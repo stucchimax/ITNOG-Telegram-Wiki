@@ -42,5 +42,5 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |[mtrimarchi](https://t.me/mtrimarchi)| Manuele | Trimarchi | ICAD SISTEMI | |
 |[Czanforlin](https://t.me/Czanforlin)| Cristiano | Zanforlin | MIX-IT | 16004 |
 |theinfiltrated | Francesco | Provino | AWS | AS16509 |
-
+|nabuk80 | Fabrizio | Fiore Donati | air2bite (2bite srl) | [AS35617](https://www.air2bite.net/) |
 
