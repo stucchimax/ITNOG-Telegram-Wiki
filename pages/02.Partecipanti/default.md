@@ -26,12 +26,14 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |lucacicchelli | Luca | Cicchelli | TOP-IX | AS25309, AS41364, AS209631 |
 |godzillante | Francesco | De Francesco | Keliweb | [AS202675](https://www.peeringdb.com/asn/202675) |
 |Peppe2201 | Giuseppe | Dipierro | Uania Srl | [AS207905](https://www.uania.com/)|
+|nabuk80 | Fabrizio | Fiore Donati | air2bite (2bite srl) | [AS35617](https://www.air2bite.net/) |
 |flavioluciani81 | Flavio | Luciani | Namex | [AS24796](https://www.namex.it) |
 |manolab| Normando | Marcolongo | Micso | AS21034, AS205005 |
 |capitangiaco| Giacomo | Marconi | Comune di Arezzo | |
 |siccolo| Marco | Marletta | GARR | [AS137](http://as137.peeringdb.com/)|
 |mpaesani| Marco | Paesani | Fiber Telecom | [AS41327](https://as41327.peeringdb.com)|
 |antoniopradoit | Antonio | Prado | SBTAP | [AS59715](https://as59715.net) |
+|theinfiltrated | Francesco | Provino | AWS | AS16509 |
 |paolopoz | Paolo | Pozzan | Telemar | [AS13097](https://www.peeringdb.com/net/8782) |
 |rglauco| Glauco | Rampogna | Comune di Preganziol | |
 |sickness| Diego | Righi | Unione delle Terre d'Argine | |
@@ -42,6 +44,4 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |lostcarrier37| Lukas | Tribus | Brennercom SpA | [AS20811](https://www.peeringdb.com/asn/20811) |
 |[mtrimarchi](https://t.me/mtrimarchi)| Manuele | Trimarchi | ICAD SISTEMI | |
 |[Czanforlin](https://t.me/Czanforlin)| Cristiano | Zanforlin | MIX-IT | 16004 |
-|theinfiltrated | Francesco | Provino | AWS | AS16509 |
-|nabuk80 | Fabrizio | Fiore Donati | air2bite (2bite srl) | [AS35617](https://www.air2bite.net/) |
 
