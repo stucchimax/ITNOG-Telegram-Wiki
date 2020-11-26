@@ -23,7 +23,7 @@ Gli argomenti trattati nel canale includono, ma non sono limitati a:
 
 | Data | Descrizione | URL| Note|
 |-----|--------|-----|-----|
-|25/11/2020| How to MANRS | [link](https://us02web.zoom.us/meeting/register/tZwvceGurz8iHNNCw0CuyuH-A1AYY8CGk-k2)| Per maggiori info, parlare con Flavio Luciani|
+|1/12/2020| Salotto MIX | [link](https://www.mix-it.net/event/mix-salotto-2020-virtual-experience/)| |
 
 ## ITNOG-Outages
 
