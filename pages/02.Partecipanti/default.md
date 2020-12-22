@@ -44,5 +44,6 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
 |lostcarrier37| Lukas | Tribus | Brennercom SpA | [AS20811](https://www.peeringdb.com/asn/20811) |
 |[mtrimarchi](https://t.me/mtrimarchi)| Manuele | Trimarchi | ICAD SISTEMI | |
+|[lasciuravale](https://t.me/lasciuravale) | Valentina | Vergani | EOLO | [AS35612](https://www.peeringdb.com/asn/35612) |
 |[Czanforlin](https://t.me/Czanforlin)| Cristiano | Zanforlin | MIX-IT | AS16004 |
 

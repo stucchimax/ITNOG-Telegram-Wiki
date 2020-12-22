@@ -23,6 +23,13 @@ Gli argomenti trattati nel canale includono, ma non sono limitati a:
 
 | Data | Descrizione | URL| Note|
 |-----|--------|-----|-----|
+|19/1/2021| UKNOF49 | [link](https://indico.uknof.org.uk/event/49/)| |
+
+
+## Eventi passati
+
+| Data | Descrizione | URL| Note|
+|-----|--------|-----|-----|
 |1/12/2020| Salotto MIX | [link](https://www.mix-it.net/event/mix-salotto-2020-virtual-experience/)| |
 
 ## ITNOG-Outages
