@@ -27,6 +27,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |lucacicchelli | Luca | Cicchelli | TOP-IX | AS25309, AS41364, AS209631 |
 |[sakinaga](https://t.me/sakinaga) | Stefano | De Blasi | LocLix | [AS207590](https://www.peeringdb.com/asn/207590) |
 |godzillante | Francesco | De Francesco | Keliweb | [AS202675](https://www.peeringdb.com/asn/202675) |
+|[freecris](https://t.me/freecris)| Cristiano | Deana | MegaWeb | [AS42669](https://www.peeringdb.com/asn/42669) |
 |Peppe2201 | Giuseppe | Dipierro | Uania Srl | [AS207905](https://www.uania.com/)|
 |nabuk80 | Fabrizio | Fiore Donati | air2bite (2bite srl) | [AS35617](https://www.air2bite.net/) |
 |flavioluciani81 | Flavio | Luciani | Namex | [AS24796](https://www.namex.it) |
@@ -49,4 +50,3 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |[mtrimarchi](https://t.me/mtrimarchi)| Manuele | Trimarchi | ICAD SISTEMI | |
 |[lasciuravale](https://t.me/lasciuravale) | Valentina | Vergani | EOLO | [AS35612](https://www.peeringdb.com/asn/35612) |
 |[Czanforlin](https://t.me/Czanforlin)| Cristiano | Zanforlin | MIX-IT | AS16004 |
-|[freecris](https://t.me/freecris)| Cristiano | Deana | MegaWeb | [AS42669](https://www.peeringdb.com/asn/42669) |
