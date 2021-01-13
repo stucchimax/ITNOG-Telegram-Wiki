@@ -29,6 +29,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |godzillante | Francesco | De Francesco | Keliweb | [AS202675](https://www.peeringdb.com/asn/202675) |
 |[freecris](https://t.me/freecris)| Cristiano | Deana | MegaWeb | [AS42669](https://www.peeringdb.com/asn/42669) |
 |Peppe2201 | Giuseppe | Dipierro | Uania Srl | [AS207905](https://www.uania.com/)|
+|[fedofava86](https://t.me/fedofava86) | Federico | Favaro | Athonet | |
 |nabuk80 | Fabrizio | Fiore Donati | air2bite (2bite srl) | [AS35617](https://www.air2bite.net/) |
 |flavioluciani81 | Flavio | Luciani | Namex | [AS24796](https://www.namex.it) |
 |manolab| Normando | Marcolongo | Micso | AS21034, AS205005 |
