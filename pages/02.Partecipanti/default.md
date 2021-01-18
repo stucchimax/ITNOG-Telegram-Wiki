@@ -31,6 +31,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |Peppe2201 | Giuseppe | Dipierro | Uania Srl | [AS207905](https://www.uania.com/)|
 |[fedofava86](https://t.me/fedofava86) | Federico | Favaro | Athonet | |
 |nabuk80 | Fabrizio | Fiore Donati | air2bite (2bite srl) | [AS35617](https://www.air2bite.net/) |
+|BigTrumpet | Massimo | Fontanive | Progetto 8 | [AS198721](https://www.peeringdb.com/asn/198721) |
 |flavioluciani81 | Flavio | Luciani | Namex | [AS24796](https://www.namex.it) |
 |manolab| Normando | Marcolongo | Micso | AS21034, AS205005 |
 |capitangiaco| Giacomo | Marconi | Comune di Arezzo | |
