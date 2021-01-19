@@ -1,5 +1,5 @@
 ---
-title: Partecipanti 
+title: Partecipanti
 body_classes: 'title-center title-h1h2'
 ---
 
@@ -44,6 +44,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |rglauco| Glauco | Rampogna | Comune di Preganziol | |
 |sickness| Diego | Righi | Unione delle Terre d'Argine | |
 |router365| Luca | Robusto | Arpitel | |
+|DanieleSanti| Daniele | Santi | Interplanet | [AS34758](https://https://as34758.net/) |
 |stesasso| Stefano | Sasso | Athonet | |
 |jack| Jakob | Schwienbacher | Telmekom | [AS49088](https://www.telmekom.net) |
 |[Matthew18](https://t.me/Matthew18) | Matteo | Sciacca | LocLix | [AS207590](https://www.peeringdb.com/asn/207590) |
