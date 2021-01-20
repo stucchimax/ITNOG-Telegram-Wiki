@@ -53,4 +53,4 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |[mtrimarchi](https://t.me/mtrimarchi)| Manuele | Trimarchi | ICAD SISTEMI | |
 |[lasciuravale](https://t.me/lasciuravale) | Valentina | Vergani | EOLO | [AS35612](https://www.peeringdb.com/asn/35612) |
 |[Czanforlin](https://t.me/Czanforlin)| Cristiano | Zanforlin | MIX-IT | AS16004 |
-|[acastano](https://t.me/ilvesparossa)| Andrea | Castano | Supernap Italia | [AS203201](https://www.peeringdb.com/asn/203201) |
+|[ilvesparossa](https://t.me/ilvesparossa)| Andrea | Castano | Supernap Italia | [AS203201](https://www.peeringdb.com/asn/203201) |
