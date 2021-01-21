@@ -46,7 +46,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |router365| Luca | Robusto | Arpitel | |
 |DanieleSanti| Daniele | Santi | Interplanet | [AS34758](https://https://as34758.net/) |
 |stesasso| Stefano | Sasso | Athonet | |
-|jack| Jakob | Schwienbacher | Telmekom | [AS49088](https://www.telmekom.net) |
+|jack| Jakob | Schwienbacher | Telmekom Networks GmbH, STIX| [AS49088](https://www.peeringdb.com/net/17656) [AS43286](https://www.peeringdb.com/ix/2537) |
 |[Matthew18](https://t.me/Matthew18) | Matteo | Sciacca | LocLix | [AS207590](https://www.peeringdb.com/asn/207590) |
 |stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
 |[lostcarrier37](https://t.me/lostcarrier37)| Lukas | Tribus | Netikom | [AS207146](https://www.peeringdb.com/asn/207146) |
