@@ -23,6 +23,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |g_bonfiglio | Giorgio | Bonfiglio | AWS | AS16509 |
 |PgB79| Piero | Borello | Quirum | |
 |massimocandela | Massimo | Candela | NTT| [AS2914](https://www.gin.ntt.net/) |
+|[beEnry](https://t.me/beEnry)| Enrico | Caruso | Timenet srl | [AS51580, AS31611](https://www.timenet.it) |
 |pierky | Pier Carlo | Chiodi | Cisco Umbrella | AS36692 |
 |lucacicchelli | Luca | Cicchelli | TOP-IX | AS25309, AS41364, AS209631 |
 |[sakinaga](https://t.me/sakinaga) | Stefano | De Blasi | LocLix | [AS207590](https://www.peeringdb.com/asn/207590) |
