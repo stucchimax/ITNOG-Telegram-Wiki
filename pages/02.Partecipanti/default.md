@@ -34,7 +34,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |[fedofava86](https://t.me/fedofava86) | Federico | Favaro | Athonet | |
 |nabuk80 | Fabrizio | Fiore Donati | air2bite (2bite srl) | [AS35617](https://www.air2bite.net/) |
 |BigTrumpet | Massimo | Fontanive | Progetto 8 | [AS198721](https://www.peeringdb.com/asn/198721) |
-|[infinity_sbn](https://t.me/infinity_sbn)| Davide | Lima Daum | Fibering S.p.a. |[AS51569](https://www.peeringdb.com/net/19660),AS35314|
+|[infinity_sbn](https://t.me/infinity_sbn)| Davide | Lima Daum | Fibering S.p.a. |[AS51569](https://www.peeringdb.com/net/19660),[AS35314](https://www.peeringdb.com/net/25797)|
 |flavioluciani81 | Flavio | Luciani | Namex | [AS24796](https://www.namex.it) |
 |manolab| Normando | Marcolongo | Micso | AS21034, AS205005 |
 |capitangiaco| Giacomo | Marconi | Comune di Arezzo | |
