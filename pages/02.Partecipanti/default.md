@@ -24,6 +24,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |PgB79| Piero | Borello | Quirum | |
 |massimocandela | Massimo | Candela | NTT| [AS2914](https://www.gin.ntt.net/) |
 |[beEnry](https://t.me/beEnry)| Enrico | Caruso | Timenet srl | [AS51580, AS31611](https://www.timenet.it) |
+|[ilvesparossa](https://t.me/ilvesparossa)| Andrea | Castano | Supernap Italia | [AS203201](https://www.peeringdb.com/asn/203201) |
 |pierky | Pier Carlo | Chiodi | Cisco Umbrella | AS36692 |
 |lucacicchelli | Luca | Cicchelli | TOP-IX | AS25309, AS41364, AS209631 |
 |[sakinaga](https://t.me/sakinaga) | Stefano | De Blasi | LocLix | [AS207590](https://www.peeringdb.com/asn/207590) |
@@ -55,4 +56,3 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |[mtrimarchi](https://t.me/mtrimarchi)| Manuele | Trimarchi | ICAD SISTEMI | |
 |[lasciuravale](https://t.me/lasciuravale) | Valentina | Vergani | EOLO | [AS35612](https://www.peeringdb.com/asn/35612) |
 |[Czanforlin](https://t.me/Czanforlin)| Cristiano | Zanforlin | MIX-IT | AS16004 |
-|[ilvesparossa](https://t.me/ilvesparossa)| Andrea | Castano | Supernap Italia | [AS203201](https://www.peeringdb.com/asn/203201) |
