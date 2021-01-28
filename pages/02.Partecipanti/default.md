@@ -45,6 +45,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |rglauco| Glauco | Rampogna | Comune di Preganziol | |
 |sickness| Diego | Righi | Unione delle Terre d'Argine | |
 |router365| Luca | Robusto | Arpitel | |
+|mastershadow42| Eduard | Roccatello | 3DGIS | |
 |DanieleSanti| Daniele | Santi | Interplanet | [AS34758](https://https://as34758.net/) |
 |stesasso| Stefano | Sasso | Athonet | |
 |jack| Jakob | Schwienbacher | Telmekom | [AS49088](https://www.telmekom.net) |
