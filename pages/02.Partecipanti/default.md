@@ -49,6 +49,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |sickness| Diego | Righi | Unione delle Terre d'Argine | |
 |router365| Luca | Robusto | Arpitel | |
 |mastershadow42| Eduard | Roccatello | 3DGIS | |
+|nicorusti| Nicola | Rustignoli | Anapaya Systems AG | |
 |DanieleSanti| Daniele | Santi | Interplanet | [AS34758](https://as34758.net/) |
 |stesasso| Stefano | Sasso | Athonet | |
 |jack| Jakob | Schwienbacher | Telmekom | [AS49088](https://www.telmekom.net) |
