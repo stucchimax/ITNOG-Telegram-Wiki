@@ -42,6 +42,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |siccolo| Marco | Marletta | GARR | [AS137](http://as137.peeringdb.com/)|
 |omelendres| Octavio | Melendres | Fastnet Spa | [AS8265](https://as8265.peeringdb.com)|
 |mpaesani| Marco | Paesani | Fiber Telecom | [AS41327](https://as41327.peeringdb.com)|
+|[saschapapini](https://t.me/saschapapini) | Sascha | Papini | IVO - D.t.s. Srl | [AS49605](https://www.peeringdb.com/asn/49605) |
 |tiramisugo | Francesco | Politi | Micso | AS21034, AS205005 |
 |antoniopradoit | Antonio | Prado | SBTAP | [AS59715](https://as59715.net) |
 |theinfiltrated | Francesco | Provino | AWS | AS16509 |
@@ -62,4 +63,3 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |[Czanforlin](https://t.me/Czanforlin)| Cristiano | Zanforlin | MIX-IT | AS16004 |
 |[stefanozattara](https://t.me/stefanozattara)| Stefano | Zattara | Zattara Srl|  |
 |[scuzzilla](https://t.me/scuzzilla) | Salvatore | Cuzzilla | Swisscom | [AS3303](https://www.peeringdb.com/asn/3303) |
-|[saschapapini](https://t.me/saschapapini) | Sascha | Papini | IVO - D.t.s. Srl | [AS49605](https://www.peeringdb.com/asn/49605) |
