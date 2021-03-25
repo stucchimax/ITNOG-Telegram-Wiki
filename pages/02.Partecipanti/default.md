@@ -61,3 +61,4 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |[lasciuravale](https://t.me/lasciuravale) | Valentina | Vergani | EOLO | [AS35612](https://www.peeringdb.com/asn/35612) |
 |[Czanforlin](https://t.me/Czanforlin)| Cristiano | Zanforlin | MIX-IT | AS16004 |
 |[stefanozattara](https://t.me/stefanozattara)| Stefano | Zattara | Zattara Srl|  |
+|[scuzzilla](https://t.me/scuzzilla) | Salvatore | Cuzzilla | Swisscom | [AS3303](https://www.peeringdb.com/asn/3303) |
