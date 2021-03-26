@@ -44,6 +44,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |siccolo| Marco | Marletta | GARR | [AS137](http://as137.peeringdb.com/)|
 |omelendres| Octavio | Melendres | Fastnet Spa | [AS8265](https://as8265.peeringdb.com)|
 |mpaesani| Marco | Paesani | Fiber Telecom | [AS41327](https://as41327.peeringdb.com)|
+|[saschapapini](https://t.me/saschapapini) | Sascha | Papini | IVO - D.t.s. Srl | [AS49605](https://www.peeringdb.com/asn/49605) |
 |tiramisugo | Francesco | Politi | Micso | AS21034, AS205005 |
 |paolopoz | Paolo | Pozzan | Telemar | [AS13097](https://www.peeringdb.com/net/8782) |
 |antoniopradoit | Antonio | Prado | SBTAP | [AS59715](https://as59715.net) |
