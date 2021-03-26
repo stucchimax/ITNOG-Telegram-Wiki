@@ -23,18 +23,22 @@ Gli argomenti trattati nel canale includono, ma non sono limitati a:
 
 | Data | Descrizione | URL| Note|
 |-----|--------|-----|-----|
-|19/1/2021| UKNOF49 | [link](https://indico.uknof.org.uk/event/49/)| |
+
 
 
 ## Eventi passati
 
 | Data | Descrizione | URL| Note|
 |-----|--------|-----|-----|
+|19/1/2021| UKNOF49 | [link](https://indico.uknof.org.uk/event/49/)| |
 |1/12/2020| Salotto MIX | [link](https://www.mix-it.net/event/mix-salotto-2020-virtual-experience/)| |
 
 ## ITNOG-Outages
 
 E' presente anche un secondo canale, [ITNOG Outages](https://t.me/ITNOG_Outages) il cui scopo e' comunicare tempestivamente problemi relativi alle reti e alle interconnessioni in Italia.  Questo canale e' solo ed esclusivamente per comunicazioni brevi, e non per le discussioni inerenti ai guasti.  Tali discussioni sono da tenersi sul canale principale.  L'obiettivo e' permettere di mantenere un livello di traffico basso cosi' da tenere le notifiche attive ed essere tempestivamente allertati in caso di disservizi generalizzati.
+
+## ITNOG OT e Varie
+Nel canale [ITNOG OT e Varie](https://t.me/ITNOG_OT) è possibile parlare di tutto quello che non è direttamente legato ad altri canali tematici del gruppo. [n.d.r. Lo scopo principale di questo canale dovrebbe essere quello di organizzare una grigliata post covid]
 
 ## Aggiunta di contenuti
 
