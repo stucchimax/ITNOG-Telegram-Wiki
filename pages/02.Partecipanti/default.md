@@ -27,7 +27,10 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |[ilvesparossa](https://t.me/ilvesparossa)| Andrea | Castano | Supernap Italia | [AS203201](https://www.peeringdb.com/asn/203201) |
 |pierky | Pier Carlo | Chiodi | Cisco Umbrella | AS36692 |
 |lucacicchelli | Luca | Cicchelli | TOP-IX | AS25309, AS41364, AS209631 |
+|[CoelliAle](https://t.me/CoelliAle) | Alessandro | Coelli | IP Technology | [AS206476](https://peeringdb.com/net/21092) |
 |[Xanio81](https://t.me/Xanio81) | Andrea | Crisafulli | Link Space srl | AS203089 |
+|[scuzzilla](https://t.me/scuzzilla) | Salvatore | Cuzzilla | Swisscom | [AS3303](https://www.peeringdb.com/asn/3303) |
+|[paolo_daniele](https://t.me/paolo_daniele)| Paolo | Daniele | Intendo Srl| [AS34691](https://www.peeringdb.com/asn/34691) |
 |[sakinaga](https://t.me/sakinaga) | Stefano | De Blasi | LocLix | [AS207590](https://www.peeringdb.com/asn/207590) |
 |godzillante | Francesco | De Francesco | Keliweb | [AS202675](https://www.peeringdb.com/asn/202675) |
 |[freecris](https://t.me/freecris)| Cristiano | Deana | MegaWeb | [AS42669](https://www.peeringdb.com/asn/42669) |
@@ -42,10 +45,11 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |siccolo| Marco | Marletta | GARR | [AS137](http://as137.peeringdb.com/)|
 |omelendres| Octavio | Melendres | Fastnet Spa | [AS8265](https://as8265.peeringdb.com)|
 |mpaesani| Marco | Paesani | Fiber Telecom | [AS41327](https://as41327.peeringdb.com)|
+|[saschapapini](https://t.me/saschapapini) | Sascha | Papini | IVO - D.t.s. Srl | [AS49605](https://www.peeringdb.com/asn/49605) |
 |tiramisugo | Francesco | Politi | Micso | AS21034, AS205005 |
+|paolopoz | Paolo | Pozzan | Telemar | [AS13097](https://www.peeringdb.com/net/8782) |
 |antoniopradoit | Antonio | Prado | SBTAP | [AS59715](https://as59715.net) |
 |theinfiltrated | Francesco | Provino | AWS | AS16509 |
-|paolopoz | Paolo | Pozzan | Telemar | [AS13097](https://www.peeringdb.com/net/8782) |
 |rglauco| Glauco | Rampogna | Comune di Preganziol | |
 |sickness| Diego | Righi | Unione delle Terre d'Argine | |
 |router365| Luca | Robusto | Arpitel | |
@@ -61,4 +65,3 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |[lasciuravale](https://t.me/lasciuravale) | Valentina | Vergani | EOLO | [AS35612](https://www.peeringdb.com/asn/35612) |
 |[Czanforlin](https://t.me/Czanforlin)| Cristiano | Zanforlin | MIX-IT | AS16004 |
 |[stefanozattara](https://t.me/stefanozattara)| Stefano | Zattara | Zattara Srl|  |
-|[paolo_daniele](https://t.me/paolo_daniele)| Paolo | Daniele | Intendo Srl| [AS34691](https://www.peeringdb.com/asn/34691) |
