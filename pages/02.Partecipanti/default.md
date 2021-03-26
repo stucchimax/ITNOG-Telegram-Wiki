@@ -30,6 +30,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |[CoelliAle](https://t.me/CoelliAle) | Alessandro | Coelli | IP Technology | [AS206476](https://peeringdb.com/net/21092) |
 |[Xanio81](https://t.me/Xanio81) | Andrea | Crisafulli | Link Space srl | AS203089 |
 |[scuzzilla](https://t.me/scuzzilla) | Salvatore | Cuzzilla | Swisscom | [AS3303](https://www.peeringdb.com/asn/3303) |
+|[paolo_daniele](https://t.me/paolo_daniele)| Paolo | Daniele | Intendo Srl| [AS34691](https://www.peeringdb.com/asn/34691) |
 |[sakinaga](https://t.me/sakinaga) | Stefano | De Blasi | LocLix | [AS207590](https://www.peeringdb.com/asn/207590) |
 |godzillante | Francesco | De Francesco | Keliweb | [AS202675](https://www.peeringdb.com/asn/202675) |
 |[freecris](https://t.me/freecris)| Cristiano | Deana | MegaWeb | [AS42669](https://www.peeringdb.com/asn/42669) |
