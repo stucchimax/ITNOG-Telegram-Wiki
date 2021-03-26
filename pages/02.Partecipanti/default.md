@@ -19,6 +19,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |JustFretto| Stefano | Annese | Erre Elle Net |  [AS47406](https://www.peeringdb.com/asn/47406) |
 |robynhub| Antonio | Bartolini | Connesi S.p.A. | [AS15605](https://www.peeringdb.com/asn/15605) |
 |MatteoBerlonghi | Matteo | Berlonghi | SeFlow | [AS49367](https://www.seflow.net/) |
+|iw0der| Arturo | Bianchi | Officine Informatiche | [AS20972](http://www.officine.it/) |
 |bodothebest| Marco | Bodini | Brennercom SpA | [AS20811](https://www.peeringdb.com/asn/20811) |
 |g_bonfiglio | Giorgio | Bonfiglio | AWS | AS16509 |
 |PgB79| Piero | Borello | Quirum | |
