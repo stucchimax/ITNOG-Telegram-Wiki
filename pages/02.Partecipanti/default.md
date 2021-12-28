@@ -18,6 +18,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |----------|------|---------|-----|-----|
 |JustFretto| Stefano | Annese | Erre Elle Net |  [AS47406](https://www.peeringdb.com/asn/47406) |
 |robynhub| Antonio | Bartolini | Connesi S.p.A. | [AS15605](https://www.peeringdb.com/asn/15605) |
+|[Topgunx1](https://t.me/Topgunx1)| Manuel | Baldovini | Passepartout Spa| AS39759 |
 |MatteoBerlonghi | Matteo | Berlonghi | SeFlow | [AS49367](https://www.seflow.net/) |
 |iw0der| Arturo | Bianchi | Officine Informatiche | [AS20972](http://www.officine.it/) |
 |bodothebest| Marco | Bodini | Brennercom SpA | [AS20811](https://www.peeringdb.com/asn/20811) |
@@ -61,6 +62,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |jack| Jakob | Schwienbacher | Telmekom | [AS49088](https://www.telmekom.net) |
 |[Matthew18](https://t.me/Matthew18) | Matteo | Sciacca | LocLix | [AS207590](https://www.peeringdb.com/asn/207590) |
 |stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
+|[sgalam](https://t.me/sgalam)| Matteo | Sgalaberni | Ehiweb.it | [AS43989](https://www.peeringdb.com/net/25247)|
 |[lostcarrier37](https://t.me/lostcarrier37)| Lukas | Tribus | Netikom | [AS207146](https://www.peeringdb.com/asn/207146) |
 |[mtrimarchi](https://t.me/mtrimarchi)| Manuele | Trimarchi | ICAD SISTEMI | |
 |[lasciuravale](https://t.me/lasciuravale) | Valentina | Vergani | EOLO | [AS35612](https://www.peeringdb.com/asn/35612) |
