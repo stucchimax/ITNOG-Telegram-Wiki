@@ -10,14 +10,14 @@ Dopo trasferimenti di indirizzi IP spesso i servizi di geolocalizzazione non si 
 
 ## Preparazione
 
-* confermare che sul database del RIPE l'oggetto [inetnum](https://www.ripe.net/manage-ips-and-asns/db/support/documentation/ripe-database-documentation/rpsl-object-types/4-2-descriptions-of-primary-objects/4-2-4-description-of-the-inetnum-object) (quello principale, che copre l'intero prefisso) riporta correttamente `country: IT`
-* opzionale invece sono i attributi language, geoloc come anche i geofeed (RFC8805)
-* si consiglia di aspettare qualche giorno o settimana dopo la modifica su RIPE, per permettere ai servizi di geolocalizzazione di aggiornare i propri database automaticamente
-* controllare le seguenti liste, facendo un check con ogni singolo provider e far richiesta di aggiornamento la dove necessario:
+* Confermare che sul database del RIPE l'oggetto [inetnum](https://www.ripe.net/manage-ips-and-asns/db/support/documentation/ripe-database-documentation/rpsl-object-types/4-2-descriptions-of-primary-objects/4-2-4-description-of-the-inetnum-object) (quello principale, che copre l'intero prefisso) riporta correttamente `country: IT`;
+* opzionali sono invece gli attributi *language* e *geoloc*, cosi' come anche i *geofeed* ([RFC8805](https://datatracker.ietf.org/doc/html/rfc8805));
+* Si consiglia di aspettare qualche giorno o settimana dopo la modifica degli oggetti nel RIPE DB, per permettere ai servizi di geolocalizzazione di aggiornare i propri database automaticamente;
+* Controllare le seguenti liste, facendo un check con ogni singolo provider e far richiesta di aggiornamento la dove necessario:
   * [The Brothers WISP Geo and VPN](https://thebrotherswisp.com/index.php/geo-and-vpn/)
   * [RIPE: list of geolocation providers](https://www.ripe.net/manage-ips-and-asns/db/tools/geolocation-in-the-ripe-database)
-* anche qua si consiglia di aspettare un po per permettere ai content provider italiani di aggiornare i sistemi automaticamente
-* dopodichè si passa ai content provider italiani, scopo principale di questa pagina
+* Anche qua si consiglia di aspettare qualche giorno per permettere ai content provider italiani di aggiornare i sistemi automaticamente;
+* dopodichè si passa ai content provider italiani, scopo principale di questa pagina.
 
 ## Lista di content e service provider italiani
 
