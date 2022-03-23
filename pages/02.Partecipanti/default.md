@@ -34,7 +34,9 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |[scuzzilla](https://t.me/scuzzilla) | Salvatore | Cuzzilla | Swisscom | [AS3303](https://www.peeringdb.com/asn/3303) |
 |[paolo_daniele](https://t.me/paolo_daniele)| Paolo | Daniele | Intendo Srl| [AS34691](https://www.peeringdb.com/asn/34691) |
 |[sakinaga](https://t.me/sakinaga) | Stefano | De Blasi | LocLix | [AS207590](https://www.peeringdb.com/asn/207590) |
+|[LookedPath](https://t.me/LookedPath) | Simone | de Blasiis | Eis | [AS56488](https://www.peeringdb.com/asn/56488) |
 |godzillante | Francesco | De Francesco | Keliweb | [AS202675](https://www.peeringdb.com/asn/202675) |
+|[fededema96](https://t.me/fededema96) | Federico | De Martin | Eis | [AS56488](https://www.peeringdb.com/asn/56488) |
 |[freecris](https://t.me/freecris)| Cristiano | Deana | MegaWeb | [AS42669](https://www.peeringdb.com/asn/42669) |
 |Peppe2201 | Giuseppe | Dipierro | Uania Srl | [AS207905](https://www.uania.com/)|
 |[fedofava86](https://t.me/fedofava86) | Federico | Favaro | Athonet | |
