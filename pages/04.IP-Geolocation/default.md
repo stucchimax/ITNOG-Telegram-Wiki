@@ -23,10 +23,10 @@ Dopo trasferimenti di indirizzi IP spesso i servizi di geolocalizzazione non si 
 
 Per aggiungere o modificare un contatto su questa lista e' sufficiente inviare una *pull request* sul [repository GitHub](https://github.com/stucchimax/ITNOG-Telegram-Wiki/) che gestisce il sito. Si prega di mantenere l'ordine alfabetico per Organizzazione.
 
-| Organizzazione | Check-URL | contatto (webform/email) |
-|-|-|-|
-| DAZN | n/a | TBD |
-| Mediaset | [Canale 5 diretta](https://www.mediasetplay.mediaset.it/diretta/canale5_cC5) | TBD |
-| RAI | [Raiplay RAI1 diretta](https://www.raiplay.it/dirette/rai1) | TBD |
-| Sisal | n/a | TBD |
+| Organizzazione | Check-URL | Vendor | contatto (webform/email) |
+|-|-|-|-|
+| DAZN | n/a | TBD | TBD |
+| Mediaset | [Canale 5 diretta](https://www.mediasetplay.mediaset.it/diretta/canale5_cC5) | TBD | TBD |
+| RAI | [Raiplay RAI1 diretta](https://www.raiplay.it/dirette/rai1) | Maxmind, Neustar, Akamai | TBD |
+| Sisal | n/a | TBD | TBD |
 
