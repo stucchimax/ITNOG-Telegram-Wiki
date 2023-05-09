@@ -61,8 +61,9 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |nicorusti| Nicola | Rustignoli | ETH Zürich Network Security Group | |
 |DanieleSanti| Daniele | Santi | Axera S.P.A. | [AS34758](https://as34758.net/) |
 |stesasso| Stefano | Sasso | Athonet | |
-|jack| Jakob | Schwienbacher | Telmekom | [AS49088](https://www.telmekom.net) |
+|mrjackson| Jakob | Schwienbacher | Telmekom | [AS49088](https://www.telmekom.net) |
 |[Matthew18](https://t.me/Matthew18) | Matteo | Sciacca | LocLix | [AS207590](https://www.peeringdb.com/asn/207590) |
+|MirkoNet| Mirco | Stoppa | Wolnet | [AS49524](https://as49524.peeringdb.com)|
 |stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
 |[sgalam](https://t.me/sgalam)| Matteo | Sgalaberni | Ehiweb.it | [AS43989](https://www.peeringdb.com/net/25247)|
 |[lostcarrier37](https://t.me/lostcarrier37)| Lukas | Tribus | Netikom | [AS207146](https://www.peeringdb.com/asn/207146) |
