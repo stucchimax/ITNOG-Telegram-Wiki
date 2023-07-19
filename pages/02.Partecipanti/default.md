@@ -68,6 +68,6 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |[sgalam](https://t.me/sgalam)| Matteo | Sgalaberni | Ehiweb.it | [AS43989](https://www.peeringdb.com/net/25247)|
 |[lostcarrier37](https://t.me/lostcarrier37)| Lukas | Tribus | Netikom | [AS207146](https://www.peeringdb.com/asn/207146) |
 |[mtrimarchi](https://t.me/mtrimarchi)| Manuele | Trimarchi | ICAD SISTEMI | |
-|[lasciuravale](https://t.me/lasciuravale) | Valentina | Vergani | EOLO | [AS35612](https://www.peeringdb.com/asn/35612) |
+|[lasciuravale](https://t.me/lasciuravale) | Valentina | Vergani | Sky Italia | [AS210278](https://www.peeringdb.com/asn/210278) |
 |[Czanforlin](https://t.me/Czanforlin)| Cristiano | Zanforlin | MIX-IT | AS16004 |
 |[stefanozattara](https://t.me/stefanozattara)| Stefano | Zattara | Zattara Srl|  |
