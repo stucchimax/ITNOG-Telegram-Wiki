@@ -17,6 +17,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 | Username | Nome | Cognome |Organizzazione| ASN |
 |----------|------|---------|-----|-----|
 |JustFretto| Stefano | Annese | Erre Elle Net |  [AS47406](https://www.peeringdb.com/asn/47406) |
+|[francesco_ascione](https://t.me/francesco_ascione)| Francesco | Ascione | Fibersix | [AS47152](https://as47152.peeringdb.com) |
 |robynhub| Antonio | Bartolini | Connesi S.p.A. | [AS15605](https://www.peeringdb.com/asn/15605) |
 |[Topgunx1](https://t.me/Topgunx1)| Manuel | Baldovini | Passepartout Spa| AS39759 |
 |MatteoBerlonghi | Matteo | Berlonghi | SeFlow | [AS49367](https://www.seflow.net/) |
