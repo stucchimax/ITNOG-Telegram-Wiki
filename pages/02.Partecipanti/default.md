@@ -66,7 +66,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |MirkoNet| Mirco | Stoppa | Wolnet | [AS49524](https://as49524.peeringdb.com)|
 |stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
 |[sgalam](https://t.me/sgalam)| Matteo | Sgalaberni | Ehiweb.it | [AS43989](https://www.peeringdb.com/net/25247)|
-|[lostcarrier37](https://t.me/lostcarrier37)| Lukas | Tribus | Netikom | [AS207146](https://www.peeringdb.com/asn/207146) |
+|[lostcarrier37](https://t.me/lostcarrier37)| Lukas | Tribus | LTRINET (Consulting) | |
 |[mtrimarchi](https://t.me/mtrimarchi)| Manuele | Trimarchi | TMIT | [AS197749](https://as197749.net) |
 |[lasciuravale](https://t.me/lasciuravale) | Valentina | Vergani | Sky Italia | [AS210278](https://www.peeringdb.com/asn/210278) |
 |[Czanforlin](https://t.me/Czanforlin)| Cristiano | Zanforlin | MIX-IT | AS16004 |
