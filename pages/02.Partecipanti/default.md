@@ -59,6 +59,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |router365| Luca | Robusto | Arpitel | |
 |mastershadow42| Eduard | Roccatello | 3DGIS | |
 |nicorusti| Nicola | Rustignoli | ETH Zürich Network Security Group | |
+|[ThIs_eFFeIeLLe](https://t.me/ThIs_eFFeIeLLe)| Filippo | Sacco Comis Dell'Oste | FSCD-NET | [AS216418](https://www.peeringdb.com/net/34055) |
 |DanieleSanti| Daniele | Santi | Axera S.P.A. | [AS34758](https://as34758.net/) |
 |stesasso| Stefano | Sasso | Athonet | |
 |mrjackson| Jakob | Schwienbacher | Telmekom | [AS49088](https://www.telmekom.net) |
